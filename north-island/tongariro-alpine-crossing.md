@@ -49,7 +49,7 @@ Mountain summit trails are not included as part of the *crossing* walk trail. Th
 
 * Auckland - ~350km (4h 13m) - [Directions](https://goo.gl/maps/LxTzxhATTcC2)
 
-![Auckland Directions](north-island/assets/tongariro-alpine-crossing-directions.png)
+![Auckland Directions](assets/tongariro-alpine-crossing-directions.png)
 
 ## Related Links
 
@@ -58,3 +58,4 @@ Mountain summit trails are not included as part of the *crossing* walk trail. Th
 * http://www.newzealand.com/us/feature/tongariro-alpine-crossing/
 * http://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/mount-ngauruhoe-summit-climb/
 * http://www.tongarironationalpark.com/tongariro-national-park/tongariro-mountain-summits.html
+
