@@ -39,11 +39,11 @@ Mountain summit trails are not included as part of the *crossing* walk trail. Th
 
 ## Trail Map
 
-![Trail Map](http://www.tongarirocrossing.org.nz/uploads/96914/images/Tongariro-Crossing-Map-Aug-2012.gif)
+![Trail Map](assets/tongariro-trail-map.gif)
 
 ## Elevation Map
 
-![Elevation Map](http://www.tongarirocrossing.org.nz/uploads/96914/images/Tongariro-Alpine_Crossing-Cross-Section-Large.gif)
+![Elevation Map](assets/tongariro-elevation-map.gif)
 
 ## Location
 
@@ -58,4 +58,5 @@ Mountain summit trails are not included as part of the *crossing* walk trail. Th
 * http://www.newzealand.com/us/feature/tongariro-alpine-crossing/
 * http://www.doc.govt.nz/parks-and-recreation/places-to-go/central-north-island/places/tongariro-national-park/things-to-do/tracks/mount-ngauruhoe-summit-climb/
 * http://www.tongarironationalpark.com/tongariro-national-park/tongariro-mountain-summits.html
-
+* http://www.tongarirocrossing.org.nz/uploads/96914/images/Tongariro-Alpine_Crossing-Cross-Section-Large.gif
+* http://www.tongarirocrossing.org.nz/uploads/96914/images/Tongariro-Crossing-Map-Aug-2012.gif
