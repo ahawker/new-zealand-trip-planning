@@ -20,7 +20,7 @@ Details:
 * Campsites: 
   * [Tinline](tinline-campsite.md)
   * [Coquille Bay](coquille-bay-campsite.md) 
-  * [Apple Tree Bay](apple-tree-campsite.md)
+  * [Apple Tree Bay](apple-tree-bay-campsite.md)
   * [Akersten Bay](akersten-bay-campsite.md)
   * [Watering Cove](watering-cove-camspite.md)
   * [Te Pukatea Bay](te-pukatea-bay-campsite.md)
