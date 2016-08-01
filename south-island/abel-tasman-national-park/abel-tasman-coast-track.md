@@ -70,6 +70,13 @@ Details:
 * Awaroa to Totaranui Duration: 2:20hr
 * Totaranui to Whariwharangi Bay Distance: 9.8km
 * Totaranui to Whariwharangi Bay Duration: 3:15hr
+* Campsites:
+  * [Waiharakeke Bay](waiharakeke-bay-campsite.md)
+  * [Totaranui Great Walk](totaranui-great-walk-campsite.md)
+  * [Anapai Bay](anapai-bay-campsite.md)
+  * [Mutton Cove](mutton-cove-campsite.md)
+  * [Whariwharangi Bay](whariwharangi-bay-campsite.md)
+  * [Whariwharangi Bay Hut](whariwharangi-bay-hut.md)
 
 ## Whariwharangi Bay to Wainui
 
